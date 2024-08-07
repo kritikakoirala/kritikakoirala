@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kritika, a Full Stack Software Engineer from <strong> Nepal</strong>, currently living in <strong>Halifax, Canada</strong>, passionate about developing user friendly applications with 3 years of professional working experience. 🎯
+I am Kritika, a Full Stack Software Engineer currently living in <strong>Halifax, Canada</strong>, passionate about developing user-friendly applications with 3 years of professional working experience. 🎯
 
 <h3><strong>Things I Code With</strong></h3>
 <div align="center">
@@ -29,6 +29,10 @@ I am Kritika, a Full Stack Software Engineer from <strong> Nepal</strong>, curre
 </ul>
 </div>
 
+<h3>More About My Work</h3>
+<ul>
+  <li><a target="_blank" href="https://kritikakoirala.netlify.app/">Kritika Koirala</a></li>
+</ul>
 <!--
 **kritikakoirala/kritikakoirala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

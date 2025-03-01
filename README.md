@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kritika, a Full Stack Software Engineer currently living in <strong>Halifax, Canada</strong>, passionate about developing user-friendly applications with 3 years of professional working experience. 🎯
+I am Kritika, a Full Stack Software Engineer currently living in <strong>Halifax, Canada</strong>, passionate about developing user-friendly applications with 3+ years of professional working experience. 🎯
 
 <h3><strong>Things I Code With</strong></h3>
 <div align="center">
